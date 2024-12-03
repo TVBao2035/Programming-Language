@@ -1,0 +1,10 @@
+D:\WinForm\sample_2\sample_2\bin\Debug\sample_2.exe.config
+D:\WinForm\sample_2\sample_2\bin\Debug\sample_2.exe
+D:\WinForm\sample_2\sample_2\bin\Debug\sample_2.pdb
+D:\WinForm\sample_2\sample_2\obj\Debug\sample_2.csproj.AssemblyReference.cache
+D:\WinForm\sample_2\sample_2\obj\Debug\sample_2.Form1.resources
+D:\WinForm\sample_2\sample_2\obj\Debug\sample_2.Properties.Resources.resources
+D:\WinForm\sample_2\sample_2\obj\Debug\sample_2.csproj.GenerateResource.cache
+D:\WinForm\sample_2\sample_2\obj\Debug\sample_2.csproj.CoreCompileInputs.cache
+D:\WinForm\sample_2\sample_2\obj\Debug\sample_2.exe
+D:\WinForm\sample_2\sample_2\obj\Debug\sample_2.pdb

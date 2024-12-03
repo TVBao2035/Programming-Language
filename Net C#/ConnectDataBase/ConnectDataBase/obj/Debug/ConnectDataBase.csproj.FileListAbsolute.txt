@@ -1,0 +1,15 @@
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\bin\Debug\ConnectDataBase.exe.config
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\bin\Debug\ConnectDataBase.exe
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\bin\Debug\ConnectDataBase.pdb
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.AssemblyReference.cache
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.Form1.resources
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.Properties.Resources.resources
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.GenerateResource.cache
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.CoreCompileInputs.cache
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.exe
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.pdb
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.Form2.resources
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.Form3.resources
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.Form4.resources
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.Form5.resources
+D:\Study\Net C#\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.Form6.resources

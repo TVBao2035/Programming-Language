@@ -1,0 +1,24 @@
+D:\Study\Net C#\ex_20-9\ex_20-9\obj\Debug\ex_20-9.csproj.AssemblyReference.cache
+D:\Study\Net C#\ex_20-9\ex_20-9\obj\Debug\ex_20_9.Form1.resources
+D:\Study\Net C#\ex_20-9\ex_20-9\obj\Debug\ex_20_9.Properties.Resources.resources
+D:\Study\Net C#\ex_20-9\ex_20-9\obj\Debug\ex_20-9.csproj.GenerateResource.cache
+D:\Study\Net C#\ex_20-9\ex_20-9\obj\Debug\ex_20-9.csproj.CoreCompileInputs.cache
+D:\Study\Net C#\ex_20-9\ex_20-9\bin\Debug\ex_20-9.exe.config
+D:\Study\Net C#\ex_20-9\ex_20-9\bin\Debug\ex_20-9.exe
+D:\Study\Net C#\ex_20-9\ex_20-9\bin\Debug\ex_20-9.pdb
+D:\Study\Net C#\ex_20-9\ex_20-9\obj\Debug\ex_20-9.exe
+D:\Study\Net C#\ex_20-9\ex_20-9\obj\Debug\ex_20-9.pdb
+D:\Study\Net C#\ex_20-9\ex_20-9\obj\Debug\ex_20_9.Form2.resources
+D:\Study\Net C#\ex_20-9\ex_20-9\obj\Debug\ex_20_9.Form3.resources
+D:\ex_20-9\ex_20-9\bin\Debug\ex_20-9.exe.config
+D:\ex_20-9\ex_20-9\obj\Debug\ex_20-9.exe
+D:\ex_20-9\ex_20-9\obj\Debug\ex_20-9.pdb
+D:\ex_20-9\ex_20-9\bin\Debug\ex_20-9.exe
+D:\ex_20-9\ex_20-9\bin\Debug\ex_20-9.pdb
+D:\ex_20-9\ex_20-9\obj\Debug\ex_20-9.csprojResolveAssemblyReference.cache
+D:\ex_20-9\ex_20-9\obj\Debug\ex_20_9.baitap2.resources
+D:\ex_20-9\ex_20-9\obj\Debug\ex_20_9.Form1.resources
+D:\ex_20-9\ex_20-9\obj\Debug\ex_20_9.Form2.resources
+D:\ex_20-9\ex_20-9\obj\Debug\ex_20_9.Form3.resources
+D:\ex_20-9\ex_20-9\obj\Debug\ex_20_9.Properties.Resources.resources
+D:\ex_20-9\ex_20-9\obj\Debug\ex_20-9.csproj.GenerateResource.Cache

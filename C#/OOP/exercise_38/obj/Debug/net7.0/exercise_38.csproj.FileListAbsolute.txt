@@ -1,0 +1,14 @@
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\obj\Debug\net7.0\exercise_38.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\obj\Debug\net7.0\exercise_38.AssemblyInfoInputs.cache
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\obj\Debug\net7.0\exercise_38.AssemblyInfo.cs
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\obj\Debug\net7.0\exercise_38.csproj.CoreCompileInputs.cache
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\bin\Debug\net7.0\exercise_38.exe
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\bin\Debug\net7.0\exercise_38.deps.json
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\bin\Debug\net7.0\exercise_38.runtimeconfig.json
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\bin\Debug\net7.0\exercise_38.dll
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\bin\Debug\net7.0\exercise_38.pdb
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\obj\Debug\net7.0\exercise_38.dll
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\obj\Debug\net7.0\refint\exercise_38.dll
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\obj\Debug\net7.0\exercise_38.pdb
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\obj\Debug\net7.0\exercise_38.genruntimeconfig.cache
+D:\Career Path\Progamming Languages\C#\OOP\exercise_38\obj\Debug\net7.0\ref\exercise_38.dll

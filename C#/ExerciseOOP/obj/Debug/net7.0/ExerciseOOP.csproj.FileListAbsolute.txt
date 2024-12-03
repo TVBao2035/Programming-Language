@@ -1,0 +1,14 @@
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\obj\Debug\net7.0\ExerciseOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\obj\Debug\net7.0\ExerciseOOP.AssemblyInfoInputs.cache
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\obj\Debug\net7.0\ExerciseOOP.AssemblyInfo.cs
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\obj\Debug\net7.0\ExerciseOOP.csproj.CoreCompileInputs.cache
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\bin\Debug\net7.0\ExerciseOOP.exe
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\bin\Debug\net7.0\ExerciseOOP.deps.json
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\bin\Debug\net7.0\ExerciseOOP.runtimeconfig.json
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\bin\Debug\net7.0\ExerciseOOP.dll
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\bin\Debug\net7.0\ExerciseOOP.pdb
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\obj\Debug\net7.0\ExerciseOOP.dll
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\obj\Debug\net7.0\refint\ExerciseOOP.dll
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\obj\Debug\net7.0\ExerciseOOP.pdb
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\obj\Debug\net7.0\ExerciseOOP.genruntimeconfig.cache
+D:\CareerPath\Progamming Languages\C#\ExerciseOOP\obj\Debug\net7.0\ref\ExerciseOOP.dll

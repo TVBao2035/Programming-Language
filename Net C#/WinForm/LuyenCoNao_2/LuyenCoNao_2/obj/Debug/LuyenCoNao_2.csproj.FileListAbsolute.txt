@@ -1,0 +1,10 @@
+D:\WinForm\LuyenCoNao_2\LuyenCoNao_2\bin\Debug\LuyenCoNao_2.exe.config
+D:\WinForm\LuyenCoNao_2\LuyenCoNao_2\bin\Debug\LuyenCoNao_2.exe
+D:\WinForm\LuyenCoNao_2\LuyenCoNao_2\bin\Debug\LuyenCoNao_2.pdb
+D:\WinForm\LuyenCoNao_2\LuyenCoNao_2\obj\Debug\LuyenCoNao_2.csproj.AssemblyReference.cache
+D:\WinForm\LuyenCoNao_2\LuyenCoNao_2\obj\Debug\LuyenCoNao_2.Form1.resources
+D:\WinForm\LuyenCoNao_2\LuyenCoNao_2\obj\Debug\LuyenCoNao_2.Properties.Resources.resources
+D:\WinForm\LuyenCoNao_2\LuyenCoNao_2\obj\Debug\LuyenCoNao_2.csproj.GenerateResource.cache
+D:\WinForm\LuyenCoNao_2\LuyenCoNao_2\obj\Debug\LuyenCoNao_2.csproj.CoreCompileInputs.cache
+D:\WinForm\LuyenCoNao_2\LuyenCoNao_2\obj\Debug\LuyenCoNao_2.exe
+D:\WinForm\LuyenCoNao_2\LuyenCoNao_2\obj\Debug\LuyenCoNao_2.pdb

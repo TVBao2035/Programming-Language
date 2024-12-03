@@ -1,0 +1,10 @@
+D:\WinForm\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.exe.config
+D:\WinForm\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.exe
+D:\WinForm\QuanLiXe\QuanLiXe\bin\Debug\QuanLiXe.pdb
+D:\WinForm\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.csproj.AssemblyReference.cache
+D:\WinForm\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.Form1.resources
+D:\WinForm\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.Properties.Resources.resources
+D:\WinForm\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.csproj.GenerateResource.cache
+D:\WinForm\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.csproj.CoreCompileInputs.cache
+D:\WinForm\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.exe
+D:\WinForm\QuanLiXe\QuanLiXe\obj\Debug\QuanLiXe.pdb

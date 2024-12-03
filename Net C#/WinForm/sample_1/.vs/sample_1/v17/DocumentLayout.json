@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinForm\\sample_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|D:\\WinForm\\sample_1\\sample_1\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|solutionrelative:sample_1\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|d:\\winform\\sample_1\\sample_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|solutionrelative:sample_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|D:\\WinForm\\sample_1\\sample_1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|solutionrelative:sample_1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|D:\\WinForm\\sample_1\\sample_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|solutionrelative:sample_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|D:\\WinForm\\sample_1\\sample_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|solutionrelative:sample_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|D:\\WinForm\\sample_1\\sample_1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13A6F3C-3771-4754-A0A5-035013347082}|sample_1\\sample_1.csproj|solutionrelative:sample_1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\WinForm\\sample_1\\sample_1\\Teacher.cs",
+              "RelativeDocumentMoniker": "sample_1\\Teacher.cs",
+              "ToolTip": "D:\\WinForm\\sample_1\\sample_1\\Teacher.cs",
+              "RelativeToolTip": "sample_1\\Teacher.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:39:45.121Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\WinForm\\sample_1\\sample_1\\Form1.cs",
+              "RelativeDocumentMoniker": "sample_1\\Form1.cs",
+              "ToolTip": "D:\\WinForm\\sample_1\\sample_1\\Form1.cs",
+              "RelativeToolTip": "sample_1\\Form1.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:41:34.394Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\WinForm\\sample_1\\sample_1\\Form1.cs",
+              "RelativeDocumentMoniker": "sample_1\\Form1.cs",
+              "ToolTip": "D:\\WinForm\\sample_1\\sample_1\\Form1.cs [Design]",
+              "RelativeToolTip": "sample_1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:21:30.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectDataBase.cs",
+              "DocumentMoniker": "D:\\WinForm\\sample_1\\sample_1\\ConnectDataBase.cs",
+              "RelativeDocumentMoniker": "sample_1\\ConnectDataBase.cs",
+              "ToolTip": "D:\\WinForm\\sample_1\\sample_1\\ConnectDataBase.cs",
+              "RelativeToolTip": "sample_1\\ConnectDataBase.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:46:35.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WinForm\\sample_1\\sample_1\\Program.cs",
+              "RelativeDocumentMoniker": "sample_1\\Program.cs",
+              "ToolTip": "D:\\WinForm\\sample_1\\sample_1\\Program.cs",
+              "RelativeToolTip": "sample_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:56:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\WinForm\\sample_1\\sample_1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "sample_1\\Form1.Designer.cs",
+              "ToolTip": "D:\\WinForm\\sample_1\\sample_1\\Form1.Designer.cs",
+              "RelativeToolTip": "sample_1\\Form1.Designer.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAIAwwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:59:46.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

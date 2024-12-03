@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinForm\\LuyenCoNao_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7962C1D-5498-4C3E-BDD9-380DE2AF4AE0}|LuyenCoNao_2\\LuyenCoNao_2.csproj|d:\\winform\\luyenconao_2\\luyenconao_2\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7962C1D-5498-4C3E-BDD9-380DE2AF4AE0}|LuyenCoNao_2\\LuyenCoNao_2.csproj|solutionrelative:luyenconao_2\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7962C1D-5498-4C3E-BDD9-380DE2AF4AE0}|LuyenCoNao_2\\LuyenCoNao_2.csproj|d:\\winform\\luyenconao_2\\luyenconao_2\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7962C1D-5498-4C3E-BDD9-380DE2AF4AE0}|LuyenCoNao_2\\LuyenCoNao_2.csproj|solutionrelative:luyenconao_2\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7962C1D-5498-4C3E-BDD9-380DE2AF4AE0}|LuyenCoNao_2\\LuyenCoNao_2.csproj|d:\\winform\\luyenconao_2\\luyenconao_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7962C1D-5498-4C3E-BDD9-380DE2AF4AE0}|LuyenCoNao_2\\LuyenCoNao_2.csproj|solutionrelative:luyenconao_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7962C1D-5498-4C3E-BDD9-380DE2AF4AE0}|LuyenCoNao_2\\LuyenCoNao_2.csproj|d:\\winform\\luyenconao_2\\luyenconao_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7962C1D-5498-4C3E-BDD9-380DE2AF4AE0}|LuyenCoNao_2\\LuyenCoNao_2.csproj|solutionrelative:luyenconao_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\WinForm\\LuyenCoNao_2\\LuyenCoNao_2\\Form1.cs",
+              "RelativeDocumentMoniker": "LuyenCoNao_2\\Form1.cs",
+              "ToolTip": "D:\\WinForm\\LuyenCoNao_2\\LuyenCoNao_2\\Form1.cs",
+              "RelativeToolTip": "LuyenCoNao_2\\Form1.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAEwEYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:19:33.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\WinForm\\LuyenCoNao_2\\LuyenCoNao_2\\Staff.cs",
+              "RelativeDocumentMoniker": "LuyenCoNao_2\\Staff.cs",
+              "ToolTip": "D:\\WinForm\\LuyenCoNao_2\\LuyenCoNao_2\\Staff.cs",
+              "RelativeToolTip": "LuyenCoNao_2\\Staff.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAEwCcAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:17:50.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectDataBase.cs",
+              "DocumentMoniker": "D:\\WinForm\\LuyenCoNao_2\\LuyenCoNao_2\\ConnectDataBase.cs",
+              "RelativeDocumentMoniker": "LuyenCoNao_2\\ConnectDataBase.cs",
+              "ToolTip": "D:\\WinForm\\LuyenCoNao_2\\LuyenCoNao_2\\ConnectDataBase.cs",
+              "RelativeToolTip": "LuyenCoNao_2\\ConnectDataBase.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:03:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\WinForm\\LuyenCoNao_2\\LuyenCoNao_2\\Form1.cs",
+              "RelativeDocumentMoniker": "LuyenCoNao_2\\Form1.cs",
+              "ToolTip": "D:\\WinForm\\LuyenCoNao_2\\LuyenCoNao_2\\Form1.cs [Design]",
+              "RelativeToolTip": "LuyenCoNao_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:29:02.367Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

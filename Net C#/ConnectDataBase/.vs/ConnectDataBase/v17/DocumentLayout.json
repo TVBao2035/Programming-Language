@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Net C#\\ConnectDataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0EBEB9-7C7A-4F69-A124-2990FECF5FFD}|ConnectDataBase\\ConnectDataBase.csproj|d:\\study\\net c#\\connectdatabase\\connectdatabase\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0EBEB9-7C7A-4F69-A124-2990FECF5FFD}|ConnectDataBase\\ConnectDataBase.csproj|solutionrelative:connectdatabase\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0EBEB9-7C7A-4F69-A124-2990FECF5FFD}|ConnectDataBase\\ConnectDataBase.csproj|D:\\Study\\Net C#\\ConnectDataBase\\ConnectDataBase\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0EBEB9-7C7A-4F69-A124-2990FECF5FFD}|ConnectDataBase\\ConnectDataBase.csproj|solutionrelative:ConnectDataBase\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0EBEB9-7C7A-4F69-A124-2990FECF5FFD}|ConnectDataBase\\ConnectDataBase.csproj|D:\\Study\\Net C#\\ConnectDataBase\\connectdatabase\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD0EBEB9-7C7A-4F69-A124-2990FECF5FFD}|ConnectDataBase\\ConnectDataBase.csproj|solutionrelative:connectdatabase\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\Study\\Net C#\\ConnectDataBase\\ConnectDataBase\\Form5.cs",
+              "RelativeDocumentMoniker": "ConnectDataBase\\Form5.cs",
+              "ToolTip": "D:\\Study\\Net C#\\ConnectDataBase\\ConnectDataBase\\Form5.cs",
+              "RelativeToolTip": "ConnectDataBase\\Form5.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAewD8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:20:13.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Net C#\\ConnectDataBase\\ConnectDataBase\\Program.cs",
+              "RelativeDocumentMoniker": "ConnectDataBase\\Program.cs",
+              "ToolTip": "D:\\Study\\Net C#\\ConnectDataBase\\ConnectDataBase\\Program.cs",
+              "RelativeToolTip": "ConnectDataBase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:20:35.717Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Net C#\\ConnectDataBase\\ConnectDataBase\\Form5.cs",
+              "RelativeDocumentMoniker": "ConnectDataBase\\Form5.cs",
+              "ToolTip": "D:\\Study\\Net C#\\ConnectDataBase\\ConnectDataBase\\Form5.cs [Design]",
+              "RelativeToolTip": "ConnectDataBase\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:21:46.477Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

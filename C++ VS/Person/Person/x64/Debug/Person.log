@@ -1,0 +1,4 @@
+﻿  Children.cpp
+C:\Users\bảo\OneDrive\Máy tính\C++ VS\Person\Person\Children.cpp(24,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bảo\OneDrive\Máy tính\C++ VS\Person\Person\Children.cpp(25,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  Person.vcxproj -> C:\Users\bảo\OneDrive\Máy tính\C++ VS\Person\x64\Debug\Person.exe

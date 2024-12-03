@@ -1,0 +1,13 @@
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\bin\Debug\BaiTapVeNha.exe.config
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\bin\Debug\BaiTapVeNha.exe
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\bin\Debug\BaiTapVeNha.pdb
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\obj\Debug\BaiTapVeNha.csproj.AssemblyReference.cache
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\obj\Debug\BaiTapVeNha.Form1.resources
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\obj\Debug\BaiTapVeNha.Properties.Resources.resources
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\obj\Debug\BaiTapVeNha.csproj.GenerateResource.cache
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\obj\Debug\BaiTapVeNha.csproj.CoreCompileInputs.cache
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\obj\Debug\BaiTapVeNha.exe
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\obj\Debug\BaiTapVeNha.pdb
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\obj\Debug\BaiTapVeNha.Form2.resources
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\obj\Debug\BaiTapVeNha.Form3.resources
+D:\WinForm\BaiTapVeNha\BaiTapVeNha\obj\Debug\BaiTapVeNha.Form4.resources

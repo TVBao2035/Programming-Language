@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinForm\\QuanLiXe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49495B22-DD8B-46EE-B694-1F2A1C74442C}|QuanLiXe\\QuanLiXe.csproj|d:\\winform\\quanlixe\\quanlixe\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49495B22-DD8B-46EE-B694-1F2A1C74442C}|QuanLiXe\\QuanLiXe.csproj|solutionrelative:quanlixe\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49495B22-DD8B-46EE-B694-1F2A1C74442C}|QuanLiXe\\QuanLiXe.csproj|D:\\WinForm\\QuanLiXe\\quanlixe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49495B22-DD8B-46EE-B694-1F2A1C74442C}|QuanLiXe\\QuanLiXe.csproj|solutionrelative:quanlixe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49495B22-DD8B-46EE-B694-1F2A1C74442C}|QuanLiXe\\QuanLiXe.csproj|D:\\WinForm\\QuanLiXe\\quanlixe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49495B22-DD8B-46EE-B694-1F2A1C74442C}|QuanLiXe\\QuanLiXe.csproj|solutionrelative:quanlixe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49495B22-DD8B-46EE-B694-1F2A1C74442C}|QuanLiXe\\QuanLiXe.csproj|D:\\WinForm\\QuanLiXe\\quanlixe\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49495B22-DD8B-46EE-B694-1F2A1C74442C}|QuanLiXe\\QuanLiXe.csproj|solutionrelative:quanlixe\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\WinForm\\QuanLiXe\\QuanLiXe\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLiXe\\Form1.cs",
+              "ToolTip": "D:\\WinForm\\QuanLiXe\\QuanLiXe\\Form1.cs",
+              "RelativeToolTip": "QuanLiXe\\Form1.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswFoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:13:26.802Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Xe.cs",
+              "DocumentMoniker": "D:\\WinForm\\QuanLiXe\\QuanLiXe\\Xe.cs",
+              "RelativeDocumentMoniker": "QuanLiXe\\Xe.cs",
+              "ToolTip": "D:\\WinForm\\QuanLiXe\\QuanLiXe\\Xe.cs",
+              "RelativeToolTip": "QuanLiXe\\Xe.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCgAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:11:07.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectDataBase.cs",
+              "DocumentMoniker": "D:\\WinForm\\QuanLiXe\\QuanLiXe\\ConnectDataBase.cs",
+              "RelativeDocumentMoniker": "QuanLiXe\\ConnectDataBase.cs",
+              "ToolTip": "D:\\WinForm\\QuanLiXe\\QuanLiXe\\ConnectDataBase.cs",
+              "RelativeToolTip": "QuanLiXe\\ConnectDataBase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAMwA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:03:07.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\WinForm\\QuanLiXe\\QuanLiXe\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLiXe\\Form1.cs",
+              "ToolTip": "D:\\WinForm\\QuanLiXe\\QuanLiXe\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLiXe\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:02:38.762Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

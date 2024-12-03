@@ -1,0 +1,31 @@
+F:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\bin\Debug\ex_26-9.exe.config
+F:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26-9.csprojResolveAssemblyReference.cache
+F:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26_9.Form1.resources
+F:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26_9.Properties.Resources.resources
+F:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26-9.csproj.GenerateResource.Cache
+F:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\bin\Debug\ex_26-9.exe
+F:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\bin\Debug\ex_26-9.pdb
+F:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26-9.exe
+F:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26-9.pdb
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\bin\Debug\ex_26-9.exe.config
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\bin\Debug\ex_26-9.exe
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\bin\Debug\ex_26-9.pdb
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26-9.csproj.AssemblyReference.cache
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26_9.Form1.resources
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26_9.Form2.resources
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26_9.Properties.Resources.resources
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26-9.csproj.GenerateResource.cache
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26-9.csproj.CoreCompileInputs.cache
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26-9.exe
+D:\lập trình cơ sở dữ liệu\ex_26-9\ex_26-9\obj\Debug\ex_26-9.pdb
+D:\Study\Net C#\ex_26-9\ex_26-9\bin\Debug\ex_26-9.exe.config
+D:\Study\Net C#\ex_26-9\ex_26-9\bin\Debug\ex_26-9.exe
+D:\Study\Net C#\ex_26-9\ex_26-9\bin\Debug\ex_26-9.pdb
+D:\Study\Net C#\ex_26-9\ex_26-9\obj\Debug\ex_26-9.csproj.AssemblyReference.cache
+D:\Study\Net C#\ex_26-9\ex_26-9\obj\Debug\ex_26_9.Form1.resources
+D:\Study\Net C#\ex_26-9\ex_26-9\obj\Debug\ex_26_9.Form2.resources
+D:\Study\Net C#\ex_26-9\ex_26-9\obj\Debug\ex_26_9.Properties.Resources.resources
+D:\Study\Net C#\ex_26-9\ex_26-9\obj\Debug\ex_26-9.csproj.GenerateResource.cache
+D:\Study\Net C#\ex_26-9\ex_26-9\obj\Debug\ex_26-9.csproj.CoreCompileInputs.cache
+D:\Study\Net C#\ex_26-9\ex_26-9\obj\Debug\ex_26-9.exe
+D:\Study\Net C#\ex_26-9\ex_26-9\obj\Debug\ex_26-9.pdb

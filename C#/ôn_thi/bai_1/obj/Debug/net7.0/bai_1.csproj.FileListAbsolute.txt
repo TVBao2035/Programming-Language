@@ -1,0 +1,14 @@
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\obj\Debug\net7.0\bai_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\obj\Debug\net7.0\bai_1.AssemblyInfoInputs.cache
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\obj\Debug\net7.0\bai_1.AssemblyInfo.cs
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\obj\Debug\net7.0\bai_1.csproj.CoreCompileInputs.cache
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\bin\Debug\net7.0\bai_1.exe
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\bin\Debug\net7.0\bai_1.deps.json
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\bin\Debug\net7.0\bai_1.runtimeconfig.json
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\bin\Debug\net7.0\bai_1.dll
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\bin\Debug\net7.0\bai_1.pdb
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\obj\Debug\net7.0\bai_1.dll
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\obj\Debug\net7.0\refint\bai_1.dll
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\obj\Debug\net7.0\bai_1.pdb
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\obj\Debug\net7.0\bai_1.genruntimeconfig.cache
+D:\CareerPath\Progamming Languages\C#\ôn_thi\bai_1\obj\Debug\net7.0\ref\bai_1.dll

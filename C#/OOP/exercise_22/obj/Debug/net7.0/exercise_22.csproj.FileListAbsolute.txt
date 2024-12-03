@@ -1,0 +1,14 @@
+D:\Progamming Languages\C#\OOP\exercise_22\bin\Debug\net7.0\exercise_22.exe
+D:\Progamming Languages\C#\OOP\exercise_22\bin\Debug\net7.0\exercise_22.deps.json
+D:\Progamming Languages\C#\OOP\exercise_22\bin\Debug\net7.0\exercise_22.runtimeconfig.json
+D:\Progamming Languages\C#\OOP\exercise_22\bin\Debug\net7.0\exercise_22.dll
+D:\Progamming Languages\C#\OOP\exercise_22\bin\Debug\net7.0\exercise_22.pdb
+D:\Progamming Languages\C#\OOP\exercise_22\obj\Debug\net7.0\exercise_22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progamming Languages\C#\OOP\exercise_22\obj\Debug\net7.0\exercise_22.AssemblyInfoInputs.cache
+D:\Progamming Languages\C#\OOP\exercise_22\obj\Debug\net7.0\exercise_22.AssemblyInfo.cs
+D:\Progamming Languages\C#\OOP\exercise_22\obj\Debug\net7.0\exercise_22.csproj.CoreCompileInputs.cache
+D:\Progamming Languages\C#\OOP\exercise_22\obj\Debug\net7.0\exercise_22.dll
+D:\Progamming Languages\C#\OOP\exercise_22\obj\Debug\net7.0\refint\exercise_22.dll
+D:\Progamming Languages\C#\OOP\exercise_22\obj\Debug\net7.0\exercise_22.pdb
+D:\Progamming Languages\C#\OOP\exercise_22\obj\Debug\net7.0\exercise_22.genruntimeconfig.cache
+D:\Progamming Languages\C#\OOP\exercise_22\obj\Debug\net7.0\ref\exercise_22.dll

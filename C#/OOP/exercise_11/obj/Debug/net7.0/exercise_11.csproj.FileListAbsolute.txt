@@ -1,0 +1,14 @@
+D:\Progamming Languages\C#\OOP\exercise_11\bin\Debug\net7.0\exercise_11.exe
+D:\Progamming Languages\C#\OOP\exercise_11\bin\Debug\net7.0\exercise_11.deps.json
+D:\Progamming Languages\C#\OOP\exercise_11\bin\Debug\net7.0\exercise_11.runtimeconfig.json
+D:\Progamming Languages\C#\OOP\exercise_11\bin\Debug\net7.0\exercise_11.dll
+D:\Progamming Languages\C#\OOP\exercise_11\bin\Debug\net7.0\exercise_11.pdb
+D:\Progamming Languages\C#\OOP\exercise_11\obj\Debug\net7.0\exercise_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progamming Languages\C#\OOP\exercise_11\obj\Debug\net7.0\exercise_11.AssemblyInfoInputs.cache
+D:\Progamming Languages\C#\OOP\exercise_11\obj\Debug\net7.0\exercise_11.AssemblyInfo.cs
+D:\Progamming Languages\C#\OOP\exercise_11\obj\Debug\net7.0\exercise_11.csproj.CoreCompileInputs.cache
+D:\Progamming Languages\C#\OOP\exercise_11\obj\Debug\net7.0\exercise_11.dll
+D:\Progamming Languages\C#\OOP\exercise_11\obj\Debug\net7.0\refint\exercise_11.dll
+D:\Progamming Languages\C#\OOP\exercise_11\obj\Debug\net7.0\exercise_11.pdb
+D:\Progamming Languages\C#\OOP\exercise_11\obj\Debug\net7.0\exercise_11.genruntimeconfig.cache
+D:\Progamming Languages\C#\OOP\exercise_11\obj\Debug\net7.0\ref\exercise_11.dll

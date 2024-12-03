@@ -1,0 +1,16 @@
+D:\WinForm\test_2\test_2\bin\Debug\net8.0-windows\test_2.exe
+D:\WinForm\test_2\test_2\bin\Debug\net8.0-windows\test_2.deps.json
+D:\WinForm\test_2\test_2\bin\Debug\net8.0-windows\test_2.runtimeconfig.json
+D:\WinForm\test_2\test_2\bin\Debug\net8.0-windows\test_2.dll
+D:\WinForm\test_2\test_2\bin\Debug\net8.0-windows\test_2.pdb
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\test_2.Form1.resources
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\test_2.csproj.GenerateResource.cache
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\test_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\test_2.AssemblyInfoInputs.cache
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\test_2.AssemblyInfo.cs
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\test_2.csproj.CoreCompileInputs.cache
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\test_2.dll
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\refint\test_2.dll
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\test_2.pdb
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\test_2.genruntimeconfig.cache
+D:\WinForm\test_2\test_2\obj\Debug\net8.0-windows\ref\test_2.dll

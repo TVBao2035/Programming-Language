@@ -1,0 +1,6 @@
+﻿  TTest.cpp
+C:\Users\bảo\OneDrive\Máy tính\C++ VS\TTest\TTest\TTest.cpp(7,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bảo\OneDrive\Máy tính\C++ VS\TTest\TTest\TTest.cpp(22,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bảo\OneDrive\Máy tính\C++ VS\TTest\TTest\TTest.cpp(23,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bảo\OneDrive\Máy tính\C++ VS\TTest\TTest\TTest.cpp(78,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TTest.vcxproj -> C:\Users\bảo\OneDrive\Máy tính\C++ VS\TTest\x64\Debug\TTest.exe

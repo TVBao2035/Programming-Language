@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SinhVienReportDataSet" targetNamespace="http://tempuri.org/SinhVienReportDataSet.xsd" xmlns:mstns="http://tempuri.org/SinhVienReportDataSet.xsd" xmlns="http://tempuri.org/SinhVienReportDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SinhVienReportConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SinhVienReportConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.report_2.Properties.Settings.GlobalReference.Default.SinhVienReportConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SinhVienReportDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="SinhVienReportDataSet" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="SinhVienReportDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DIEMSV" msprop:Generator_RowEvHandlerName="DIEMSVRowChangeEventHandler" msprop:Generator_RowDeletedName="DIEMSVRowDeleted" msprop:Generator_RowDeletingName="DIEMSVRowDeleting" msprop:Generator_RowEvArgName="DIEMSVRowChangeEvent" msprop:Generator_TablePropName="DIEMSV" msprop:Generator_RowChangedName="DIEMSVRowChanged" msprop:Generator_RowChangingName="DIEMSVRowChanging" msprop:Generator_TableClassName="DIEMSVDataTable" msprop:Generator_RowClassName="DIEMSVRow" msprop:Generator_TableVarName="tableDIEMSV" msprop:Generator_UserTableName="DIEMSV">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MASV" msprop:Generator_ColumnPropNameInRow="MASV" msprop:Generator_ColumnPropNameInTable="MASVColumn" msprop:Generator_ColumnVarNameInTable="columnMASV" msprop:Generator_UserColumnName="MASV" type="xs:string" minOccurs="0" />
+              <xs:element name="HoTen" msprop:Generator_ColumnPropNameInRow="HoTen" msprop:Generator_ColumnPropNameInTable="HoTenColumn" msprop:Generator_ColumnVarNameInTable="columnHoTen" msprop:Generator_UserColumnName="HoTen" type="xs:string" minOccurs="0" />
+              <xs:element name="PHAI" msprop:Generator_ColumnPropNameInRow="PHAI" msprop:Generator_ColumnPropNameInTable="PHAIColumn" msprop:Generator_ColumnVarNameInTable="columnPHAI" msprop:Generator_UserColumnName="PHAI" type="xs:string" minOccurs="0" />
+              <xs:element name="LANTHI" msprop:Generator_ColumnPropNameInRow="LANTHI" msprop:Generator_ColumnPropNameInTable="LANTHIColumn" msprop:Generator_ColumnVarNameInTable="columnLANTHI" msprop:Generator_UserColumnName="LANTHI" type="xs:int" minOccurs="0" />
+              <xs:element name="DIEM" msprop:Generator_ColumnPropNameInRow="DIEM" msprop:Generator_ColumnPropNameInTable="DIEMColumn" msprop:Generator_ColumnVarNameInTable="columnDIEM" msprop:Generator_UserColumnName="DIEM" type="xs:double" minOccurs="0" />
+              <xs:element name="MAMH" msprop:Generator_ColumnPropNameInRow="MAMH" msprop:Generator_ColumnPropNameInTable="MAMHColumn" msprop:Generator_ColumnVarNameInTable="columnMAMH" msprop:Generator_UserColumnName="MAMH" type="xs:string" minOccurs="0" />
+              <xs:element name="TENMH" msprop:Generator_ColumnPropNameInRow="TENMH" msprop:Generator_ColumnPropNameInTable="TENMHColumn" msprop:Generator_ColumnVarNameInTable="columnTENMH" msprop:Generator_UserColumnName="TENMH" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

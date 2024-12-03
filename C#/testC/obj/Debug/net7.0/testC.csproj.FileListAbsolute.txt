@@ -1,0 +1,14 @@
+D:\Progamming Languages\C#\testC\bin\Debug\net7.0\testC.exe
+D:\Progamming Languages\C#\testC\bin\Debug\net7.0\testC.deps.json
+D:\Progamming Languages\C#\testC\bin\Debug\net7.0\testC.runtimeconfig.json
+D:\Progamming Languages\C#\testC\bin\Debug\net7.0\testC.dll
+D:\Progamming Languages\C#\testC\bin\Debug\net7.0\testC.pdb
+D:\Progamming Languages\C#\testC\obj\Debug\net7.0\testC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progamming Languages\C#\testC\obj\Debug\net7.0\testC.AssemblyInfoInputs.cache
+D:\Progamming Languages\C#\testC\obj\Debug\net7.0\testC.AssemblyInfo.cs
+D:\Progamming Languages\C#\testC\obj\Debug\net7.0\testC.csproj.CoreCompileInputs.cache
+D:\Progamming Languages\C#\testC\obj\Debug\net7.0\testC.dll
+D:\Progamming Languages\C#\testC\obj\Debug\net7.0\refint\testC.dll
+D:\Progamming Languages\C#\testC\obj\Debug\net7.0\testC.pdb
+D:\Progamming Languages\C#\testC\obj\Debug\net7.0\testC.genruntimeconfig.cache
+D:\Progamming Languages\C#\testC\obj\Debug\net7.0\ref\testC.dll
