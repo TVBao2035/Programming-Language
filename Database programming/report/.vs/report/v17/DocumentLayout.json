@@ -1,45 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\",
+  "WorkspaceRootPath": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "AbsoluteMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|solutionrelative:report_3\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|d:\\careerpath\\programming-languages\\database programming\\report\\report_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|solutionrelative:report_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
       "RelativeMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|solutionrelative:report_2\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|solutionrelative:report_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|solutionrelative:report_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|solutionrelative:report_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|solutionrelative:report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|solutionrelative:report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|solutionrelative:report_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|solutionrelative:report_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|solutionrelative:report_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\quanlythoitrangdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|solutionrelative:report_3\\quanlythoitrangdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\quanlythoitrangdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|solutionrelative:report_3\\quanlythoitrangdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|solutionrelative:report_3\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D375D3E-E2FB-4E5E-BB9E-6DB0EE99E7DE}|report_3\\report_3.csproj|solutionrelative:report_3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|solutionrelative:report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|solutionrelative:report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|solutionrelative:report_2\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\sinhvienreportdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\sinhvienreportdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|solutionrelative:report_2\\sinhvienreportdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\sinhvienreportdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\sinhvienreportdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{043419F8-109B-40DA-9C35-17D3F35A590C}|report_2\\report_2.csproj|solutionrelative:report_2\\sinhvienreportdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report\\dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "AbsoluteMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report\\dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{B3BCC145-6854-4E00-9169-6B20EE353A75}|report\\report.csproj|solutionrelative:report\\dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     }
   ],
@@ -50,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,37 +98,134 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLyThoiTrangDataSet.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\QuanLyThoiTrangDataSet.cs",
+              "RelativeDocumentMoniker": "report_3\\QuanLyThoiTrangDataSet.cs",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\QuanLyThoiTrangDataSet.cs",
+              "RelativeToolTip": "report_3\\QuanLyThoiTrangDataSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:42:06.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyThoiTrangDataSet.xsd",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\QuanLyThoiTrangDataSet.xsd",
+              "RelativeDocumentMoniker": "report_3\\QuanLyThoiTrangDataSet.xsd",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\QuanLyThoiTrangDataSet.xsd",
+              "RelativeToolTip": "report_3\\QuanLyThoiTrangDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-04T15:35:30.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "report_3\\CrystalReport1.rpt",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\CrystalReport1.rpt",
+              "RelativeToolTip": "report_3\\CrystalReport1.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-12-04T15:34:56.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\App.config",
+              "RelativeDocumentMoniker": "report_3\\App.config",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\App.config",
+              "RelativeToolTip": "report_3\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-04T15:23:11.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\DataBase.cs",
+              "RelativeDocumentMoniker": "report_3\\DataBase.cs",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\DataBase.cs",
+              "RelativeToolTip": "report_3\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:22:49.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\Form1.cs",
+              "RelativeDocumentMoniker": "report_3\\Form1.cs",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\Form1.cs",
+              "RelativeToolTip": "report_3\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAApwBgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:21:39.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\Program.cs",
+              "RelativeDocumentMoniker": "report_3\\Program.cs",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\Program.cs",
+              "RelativeToolTip": "report_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:21:34.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\Form1.cs",
+              "RelativeDocumentMoniker": "report_3\\Form1.cs",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_3\\Form1.cs [Design]",
+              "RelativeToolTip": "report_3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:20:31.305Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\Program.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\Program.cs",
               "RelativeDocumentMoniker": "report_2\\Program.cs",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\Program.cs",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\Program.cs",
               "RelativeToolTip": "report_2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T17:47:27.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report\\Form1.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report\\Form1.cs",
               "RelativeDocumentMoniker": "report\\Form1.cs",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report\\Form1.cs",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report\\Form1.cs",
               "RelativeToolTip": "report\\Form1.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAMwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:46:27.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T17:46:27.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\Form1.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\Form1.cs",
               "RelativeDocumentMoniker": "report_2\\Form1.cs",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\Form1.cs [Design]",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\Form1.cs [Design]",
               "RelativeToolTip": "report_2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T17:46:15.152Z",
@@ -104,23 +233,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report\\Form1.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report\\Form1.cs",
               "RelativeDocumentMoniker": "report\\Form1.cs",
               "ToolTip": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report\\Form1.cs [Design]",
-              "RelativeToolTip": "report\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:46:25.518Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-02T17:46:25.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CrystalReport1.rpt",
-              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\CrystalReport1.rpt",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\CrystalReport1.rpt",
               "RelativeDocumentMoniker": "report_2\\CrystalReport1.rpt",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\CrystalReport1.rpt",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\CrystalReport1.rpt",
               "RelativeToolTip": "report_2\\CrystalReport1.rpt",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
               "WhenOpened": "2024-12-02T17:42:57.535Z",
@@ -128,63 +256,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "SinhVienReportDataSet.cs",
-              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\SinhVienReportDataSet.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\SinhVienReportDataSet.cs",
               "RelativeDocumentMoniker": "report_2\\SinhVienReportDataSet.cs",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\SinhVienReportDataSet.cs",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\SinhVienReportDataSet.cs",
               "RelativeToolTip": "report_2\\SinhVienReportDataSet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:40:36.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T17:40:36.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SinhVienReportDataSet.xsd",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\SinhVienReportDataSet.xsd",
+              "RelativeDocumentMoniker": "report_2\\SinhVienReportDataSet.xsd",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\SinhVienReportDataSet.xsd",
+              "RelativeToolTip": "report_2\\SinhVienReportDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-02T17:36:17.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataSet.xsd",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report\\DataSet.xsd",
+              "RelativeDocumentMoniker": "report\\DataSet.xsd",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report\\DataSet.xsd",
+              "RelativeToolTip": "report\\DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-02T17:33:22.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\DataBase.cs",
+              "RelativeDocumentMoniker": "report_2\\DataBase.cs",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\DataBase.cs",
+              "RelativeToolTip": "report_2\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:31:55.526Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SinhVienReportDataSet.xsd",
-              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\SinhVienReportDataSet.xsd",
-              "RelativeDocumentMoniker": "report_2\\SinhVienReportDataSet.xsd",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\SinhVienReportDataSet.xsd",
-              "RelativeToolTip": "report_2\\SinhVienReportDataSet.xsd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2024-12-02T17:36:17.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DataSet.xsd",
-              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report\\DataSet.xsd",
-              "RelativeDocumentMoniker": "report\\DataSet.xsd",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report\\DataSet.xsd",
-              "RelativeToolTip": "report\\DataSet.xsd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2024-12-02T17:33:22.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\DataBase.cs",
-              "RelativeDocumentMoniker": "report_2\\DataBase.cs",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\DataBase.cs",
-              "RelativeToolTip": "report_2\\DataBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:31:55.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\Form1.cs",
+              "DocumentMoniker": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\Form1.cs",
               "RelativeDocumentMoniker": "report_2\\Form1.cs",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\report\\report_2\\Form1.cs",
+              "ToolTip": "D:\\CareerPath\\Programming-Languages\\Database programming\\report\\report_2\\Form1.cs",
               "RelativeToolTip": "report_2\\Form1.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAApwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T17:46:18.852Z",
               "EditorCaption": ""

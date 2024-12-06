@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QuanLyThoiTrangDataSet" targetNamespace="http://tempuri.org/QuanLyThoiTrangDataSet.xsd" xmlns:mstns="http://tempuri.org/QuanLyThoiTrangDataSet.xsd" xmlns="http://tempuri.org/QuanLyThoiTrangDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QuanLyThoiTrangConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QuanLyThoiTrangConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.report_3.Properties.Settings.GlobalReference.Default.QuanLyThoiTrangConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QuanLyThoiTrangDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="QuanLyThoiTrangDataSet" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QuanLyThoiTrangDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DonHang" msprop:Generator_RowEvHandlerName="DonHangRowChangeEventHandler" msprop:Generator_RowDeletedName="DonHangRowDeleted" msprop:Generator_RowDeletingName="DonHangRowDeleting" msprop:Generator_RowEvArgName="DonHangRowChangeEvent" msprop:Generator_TablePropName="DonHang" msprop:Generator_RowChangedName="DonHangRowChanged" msprop:Generator_RowChangingName="DonHangRowChanging" msprop:Generator_TableClassName="DonHangDataTable" msprop:Generator_RowClassName="DonHangRow" msprop:Generator_TableVarName="tableDonHang" msprop:Generator_UserTableName="DonHang">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaSP" msprop:Generator_ColumnPropNameInRow="MaSP" msprop:Generator_ColumnPropNameInTable="MaSPColumn" msprop:Generator_ColumnVarNameInTable="columnMaSP" msprop:Generator_UserColumnName="MaSP" type="xs:string" minOccurs="0" />
+              <xs:element name="TenSP" msprop:Generator_ColumnPropNameInRow="TenSP" msprop:Generator_ColumnPropNameInTable="TenSPColumn" msprop:Generator_ColumnVarNameInTable="columnTenSP" msprop:Generator_UserColumnName="TenSP" type="xs:string" minOccurs="0" />
+              <xs:element name="SoLuong" msprop:Generator_ColumnPropNameInRow="SoLuong" msprop:Generator_ColumnPropNameInTable="SoLuongColumn" msprop:Generator_ColumnVarNameInTable="columnSoLuong" msprop:Generator_UserColumnName="SoLuong" type="xs:long" minOccurs="0" />
+              <xs:element name="Gia" msprop:Generator_ColumnPropNameInRow="Gia" msprop:Generator_ColumnPropNameInTable="GiaColumn" msprop:Generator_ColumnVarNameInTable="columnGia" msprop:Generator_UserColumnName="Gia" type="xs:double" minOccurs="0" />
+              <xs:element name="ThanhTien" msprop:Generator_ColumnPropNameInRow="ThanhTien" msprop:Generator_ColumnPropNameInTable="ThanhTienColumn" msprop:Generator_ColumnVarNameInTable="columnThanhTien" msprop:Generator_UserColumnName="ThanhTien" type="xs:double" minOccurs="0" />
+              <xs:element name="MaDonHang" msprop:Generator_ColumnPropNameInRow="MaDonHang" msprop:Generator_ColumnPropNameInTable="MaDonHangColumn" msprop:Generator_ColumnVarNameInTable="columnMaDonHang" msprop:Generator_UserColumnName="MaDonHang" type="xs:string" minOccurs="0" />
+              <xs:element name="HoTenKH" msprop:Generator_ColumnPropNameInRow="HoTenKH" msprop:Generator_ColumnPropNameInTable="HoTenKHColumn" msprop:Generator_ColumnVarNameInTable="columnHoTenKH" msprop:Generator_UserColumnName="HoTenKH" type="xs:string" minOccurs="0" />
+              <xs:element name="Ngaydat" msprop:Generator_ColumnPropNameInRow="Ngaydat" msprop:Generator_ColumnPropNameInTable="NgaydatColumn" msprop:Generator_ColumnVarNameInTable="columnNgaydat" msprop:Generator_UserColumnName="Ngaydat" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
