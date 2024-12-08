@@ -7,11 +7,16 @@ package javafrom_2;
 import com.sun.jdi.connect.ListeningConnector;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
 import javax.swing.ButtonGroup;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JMenu;
+import javax.swing.JMenuBar;
+import javax.swing.JMenuItem;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 
@@ -19,7 +24,7 @@ import javax.swing.JTextField;
  *
  * @author bảo
  */
-public class Screen extends JFrame implements ActionListener {
+public class Screen extends JFrame implements ActionListener, ItemListener {
     JLabel firstLabel = new JLabel("Enter Number First");
     JLabel secondLabel = new JLabel("Eneter Number Second");
     JTextField firstTxt = new JTextField(), secondTxt = new JTextField();
@@ -29,6 +34,10 @@ public class Screen extends JFrame implements ActionListener {
     JComboBox operCB = new JComboBox();
     ButtonGroup btnGroup = new ButtonGroup();
     JRadioButton rAdd = new JRadioButton("Addition"), rSub = new JRadioButton("Substraction"), rMul = new JRadioButton("Multplication"), rDiv = new JRadioButton("Division");
+    JMenuBar menuBar = new JMenuBar();
+    JMenu firstMenu = new JMenu("Addition Group"), secondMenu = new JMenu("Multplication");
+    JMenuItem addMenuI = new JMenuItem("Add"), subMenuI = new JMenuItem("Sub");
+
     public Screen(){
         this.setLayout(null);
         
@@ -40,7 +49,14 @@ public class Screen extends JFrame implements ActionListener {
         btnGroup.add(rMul);
         btnGroup.add(rDiv);
         btnGroup.add(rAdd);
+        menuBar.add(firstMenu);
+        menuBar.add(secondMenu);
+        firstMenu.add(addMenuI);
+        firstMenu.add(subMenuI);
+        addMenuI.addActionListener(this);
+        subMenuI.addActionListener(this);
         
+        this.setJMenuBar(menuBar);
         String[] operators = {"Addition", "Substraction", "Multplication", "Division"};
         for(int i=0; i<operators.length; i++)
         operCB.addItem(operators[i]);
@@ -76,8 +92,22 @@ public class Screen extends JFrame implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        double firstNum = Double.parseDouble(firstTxt.getText());
-        double secondNum = Double.parseDouble(secondTxt.getText());
+        double firstNum = 0, secondNum=0;
+        
+         try {
+            firstNum = Double.parseDouble(firstTxt.getText());
+        } catch(Exception ex) {
+            firstTxt.setText("");
+            firstTxt.setFocusable(true);
+            firstTxt.requestFocus();
+        }
+          try {
+            secondNum = Double.parseDouble(secondTxt.getText());
+        } catch(Exception ex) {
+            secondTxt.setText("");
+            secondTxt.setFocusable(true);
+            secondTxt.requestFocus();
+        }
         if(e.getSource() == operCB){
             int choose = operCB.getSelectedIndex();
             if(choose == 0) resultTxt.setText("" + (firstNum + secondNum));
@@ -88,22 +118,33 @@ public class Screen extends JFrame implements ActionListener {
         }
         
         if(e.getSource() == calBtn){
-         if(rAdd.isSelected()){
-            resultTxt.setText("" + (firstNum + secondNum));
+            if(rAdd.isSelected()){
+               resultTxt.setText("" + (firstNum + secondNum));
+            }
+
+             if(rSub.isSelected()){
+                resultTxt.setText("" + (firstNum - secondNum));
+            }
+
+             if(rMul.isSelected()){
+                resultTxt.setText("" + (firstNum * secondNum));
+            }
+             if(rDiv.isSelected() && secondNum != 0){
+                resultTxt.setText("" + (firstNum / secondNum));
+            }
         }
         
-         if(rSub.isSelected()){
-            resultTxt.setText("" + (firstNum - secondNum));
-        }
-         
-         if(rMul.isSelected()){
-            resultTxt.setText("" + (firstNum * secondNum));
-        }
-         if(rDiv.isSelected() && secondNum != 0){
-            resultTxt.setText("" + (firstNum / secondNum));
-        }
-        }
+        if(e.getSource() == addMenuI) resultTxt.setText(String.valueOf((firstNum + secondNum)));
+        
+        if(e.getSource() == subMenuI) resultTxt.setText(String.valueOf((firstNum - secondNum)));
        
+    }
+
+    @Override
+    public void itemStateChanged(ItemEvent e) {
+     
+        
+     
     }
         
 }
